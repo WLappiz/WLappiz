@@ -26,5 +26,6 @@ I'm currently learning C++ and Kotlin, and I plan to upload projects soon after 
 ## Connect with Me
 - [GitHub](https://github.com/WLappiz)
 - **Discord**: @WLappiz
+- [Instagram](https://www.instagram.com/wlappiz/?utm_source=ig_web_button_share_sheet)
 
 Thank you for visiting my profile! Feel free to reach out or collaborate on exciting projects. Let's build something amazing together! 🚀
